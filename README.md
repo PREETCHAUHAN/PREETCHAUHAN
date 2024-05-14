@@ -37,7 +37,7 @@
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
 
  <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-five-beryl.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotifyx01.vercel.app/api" alt="Current Spotify Song">
 </a>
 
 ###
