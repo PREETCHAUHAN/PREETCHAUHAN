@@ -36,6 +36,12 @@
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
 
+  <div align="center">
+  <img src="https://spotify-readme-five-beryl.vercel.app/?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
+</div>
+
+###
+
 ###
 
 <br><hr>
