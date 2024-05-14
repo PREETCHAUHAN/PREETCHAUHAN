@@ -6,7 +6,7 @@
   <img src="https://dotesports.com/wp-content/uploads/2023/09/Cyberpunk2077PhantomLiberty-Songbird-Closeup.png" alt="Bot" width="1500" style="border-radius: 1000px;">
 </div>
 
-![](https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/snake.svg" alt="Snake animation" />
 
 ###
 
