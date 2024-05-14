@@ -6,6 +6,10 @@
   <img src="https://dotesports.com/wp-content/uploads/2023/09/Cyberpunk2077PhantomLiberty-Songbird-Closeup.png" alt="Bot" width="1500" style="border-radius: 1000px;">
 </div>
 
+<img src="https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/snake.svg" alt="Snake animation" />
+
+###
+
 # 💫 About Me:
 👂 My name is PREETCHAUHAN <br>👩 Pronouns: DJ Preet<br>🔭 I’m currently working on motion graphic designer job<br>🌱 I’m currently learning many things<br>🤝 I’m looking to collaborate on earning money<br>🤔 I’m looking for help with big person<br>💬 Ask me about for physical exercise and health<br>📫 How to reach me: https://t.me/djpreetXBot<br>❤️ I love bodybuilding and making music<br>⚡ Fun fact: Any substance that flows is considered a fluid. This includes such things as water, shampoo, sunscreen, and even honey. Although not necessarily obvious, even gases, such as air, can be classified as fluids. This activity will allow students to 'pour' a gas and watch the results.
 
@@ -31,9 +35,6 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/djpreet3215) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/djpreet) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/djpreet) ![](https://komarev.com/ghpvc/?username=PREETCHAUHAN&color=dc143c&style=for-the-badge&abbreviated=true)
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
-
-
-<img src="https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/snake.svg" alt="Snake animation" />
 
 ###
 
