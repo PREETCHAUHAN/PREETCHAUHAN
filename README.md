@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PREETCHAUHAN.PREETCHAUHAN&left_color=darkred&right_color=deepskyblue"  />
+  <img src="https://profile-counter.glitch.me/PREETCHAUHAN/count.svg?"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/snake.svg" alt="Snake animation" />
