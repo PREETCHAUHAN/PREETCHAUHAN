@@ -1,6 +1,8 @@
 <h3 align="center">Hello</h3>
 <p align="center">
-  <div align="center">
+  <br clear="both">
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/PREETCHAUHAN/count.svg?"  />
 </div>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%" >
