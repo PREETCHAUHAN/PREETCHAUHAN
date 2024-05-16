@@ -31,10 +31,6 @@
 </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PREETCHAUHAN&theme=chartreuse-dark&area=true&hide_title=false&hide_border=false" height="150" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=PREETCHAUHAN&no-frame=true&no-bg=false&theme=matrix" height="150" alt="trophy graph"  /> 
-
-  <div align="center">
-  <img src="https://profile-counter.glitch.me/PREETCHAUHAN/count.svg?"  />
-</div>
   
 ###
 
