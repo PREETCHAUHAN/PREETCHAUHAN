@@ -44,7 +44,7 @@
 ###
 
 # 📌 Quotes 📌
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ###
 
