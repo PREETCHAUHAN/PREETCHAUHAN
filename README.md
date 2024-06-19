@@ -3,6 +3,8 @@
   <br clear="both">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%" >
 
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&screen_effect=true&theme=rainbow" alt="Pixel Profile" />
+
 <div align="center" style="border: 2px solid #e94560; border-radius: 6px; overflow: hidden;">
   <img src="https://dotesports.com/wp-content/uploads/2023/09/Cyberpunk2077PhantomLiberty-Songbird-Closeup.png" alt="Bot" width="1500" style="border-radius: 1000px;">
 </div>
