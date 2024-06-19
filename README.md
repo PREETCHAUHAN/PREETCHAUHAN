@@ -36,7 +36,12 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/djpreet3215) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/djpreet) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/djpreet) ![](https://komarev.com/ghpvc/?username=PREETCHAUHAN&color=dc143c&style=for-the-badge&abbreviated=true)
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true) [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
+
+###
+
+## Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ###
 
