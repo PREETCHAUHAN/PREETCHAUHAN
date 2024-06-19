@@ -45,6 +45,8 @@
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
 ###
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/PREETCHAUHAN/github-contribution-stats/)
+
 <br><hr>
 [🔺Go To Top🔺](#Hello)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
