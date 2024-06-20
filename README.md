@@ -49,7 +49,7 @@
   
 <div align="center">
   
-  [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api?channelid=UCG1H5hlGfh8vkhB_dH2CeJA&theme=radical&hide_border=true&layout=extruded)](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA) [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api/video?videoid=1zwq-nnTIxc&theme=radical&hide_border=true)](https://youtu.be/1zwq-nnTIxc)
+  [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api?channelid=UCG1H5hlGfh8vkhB_dH2CeJA&theme=radical&hide_border=true&layout=extruded)](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA)
   
   </div>
   
