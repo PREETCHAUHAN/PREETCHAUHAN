@@ -49,6 +49,10 @@
 ###
 
 [![Repos Badge](https://badges.pufler.dev/repos/PREETCHAUHAN)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/PREETCHAUHAN)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/PREETCHAUHAN)](https://badges.pufler.dev) [![Created Badge](https://badges.pufler.dev/created/PREETCHAUHAN/PREETCHAUHAN)](https://badges.pufler.dev)
+
+###
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/PREETCHAUHAN/github-contribution-stats/)
 
 <br><hr>
