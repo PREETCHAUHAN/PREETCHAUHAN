@@ -36,8 +36,8 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 ###
 
-# 🤣 Jokes 😂
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radial)
+# 😂 Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
 
 ###
 
