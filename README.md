@@ -41,13 +41,7 @@
   
 ###
   # 🎧 Come and listen music with me
-  <br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31vhjtyelexnd43wxfgprzsklgde">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vhjtyelexnd43wxfgprzsklgde&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
   
