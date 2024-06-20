@@ -48,11 +48,7 @@
 
 ###
 
-# 😲 Total repo's and total years in Github
 [![Repos Badge](https://badges.pufler.dev/repos/PREETCHAUHAN)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/PREETCHAUHAN)](https://badges.pufler.dev)
-###
-  
-###
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/PREETCHAUHAN/github-contribution-stats/)
 
 <br><hr>
