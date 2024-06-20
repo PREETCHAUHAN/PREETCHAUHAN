@@ -46,7 +46,10 @@
 ###
   # 🎧 Come and listen music with me
 
+###
 
+# 😲 Total repo's and total years in Github
+[![Repos Badge](https://badges.pufler.dev/repos/PREETCHAUHAN)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/PREETCHAUHAN)](https://badges.pufler.dev)
 ###
   
 ###
