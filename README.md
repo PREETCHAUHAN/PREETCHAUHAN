@@ -57,6 +57,8 @@
 
   # 🎧 Come and listen music with me
 
+![Spotify](https://now-playing-cards.vercel.app/now-playing/q?uid=31vhjtyelexnd43wxfgprzsklgde)
+
 ###
 
 <div align="center">
