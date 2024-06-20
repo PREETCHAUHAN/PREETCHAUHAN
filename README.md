@@ -59,7 +59,7 @@
 
 ###
 
-# 🖱️ Some important status
+# 🖱️ Some important stats
 
 <div align="center">
   
