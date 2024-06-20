@@ -41,7 +41,15 @@
   
 ###
   # 🎧 Come and listen music with me
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
+  <br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31vhjtyelexnd43wxfgprzsklgde">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vhjtyelexnd43wxfgprzsklgde&count=10&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
   
 ###
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/PREETCHAUHAN/github-contribution-stats/)
