@@ -47,7 +47,7 @@
 
   # 🔔 YouTube channel stats
 
-  [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api/video?videoid=Pxv2EIygB1U&theme=radical)](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA)
+  [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api/video?videoid=Pxv2EIygB1U&theme=radical)](https://youtu.be/4vwZNTagHsQ)
   
 ###
   # 🎧 Come and listen music with me
@@ -64,7 +64,7 @@
 
 ###
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/PREETCHAUHAN/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PREETCHAUHAN)](https://github.com/PREETCHAUHAN/github-contribution-stats/)
 
 <br><hr>
 [🔺Go To Top🔺](#Hello)
