@@ -47,7 +47,7 @@
 
   # 🔔 YouTube channel stats
 
-  [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api?channelid=UCG1H5hlGfh8vkhB_dH2CeJA&theme=radical&hide_border=true)](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA)
+  [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api?channelid=UCG1H5hlGfh8vkhB_dH2CeJA&theme=radical&hide_border=true)](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA) [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PREETCHAUHAN)](https://github.com/PREETCHAUHAN/github-contribution-stats/)
   
 ###
   # 🎧 Come and listen music with me
@@ -63,8 +63,6 @@
 [![Created Badge](https://badges.pufler.dev/created/PREETCHAUHAN/PREETCHAUHAN)](https://badges.pufler.dev)
 
 ###
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PREETCHAUHAN)](https://github.com/PREETCHAUHAN/github-contribution-stats/)
 
 <br><hr>
 [🔺Go To Top🔺](#Hello)
