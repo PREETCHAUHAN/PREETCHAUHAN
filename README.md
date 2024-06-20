@@ -47,7 +47,7 @@
 
   # 🔔 YouTube channel stats
 
-  [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api/video?videoid=Pxv2EIygB1U&theme=radical)](https://youtu.be/4vwZNTagHsQ)
+  [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api/video?videoid=1zwq-nnTIxc&theme=radical)](https://youtu.be/4vwZNTagHsQ)
   
 ###
   # 🎧 Come and listen music with me
