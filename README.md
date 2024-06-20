@@ -45,7 +45,7 @@
 
   ###
 
-  # 🔔 YouTube channel and github contribution stats
+  # 🔔 YouTube channel
 
   [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api?channelid=UCG1H5hlGfh8vkhB_dH2CeJA&theme=radical&hide_border=true&layout=extruded)](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA) [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api/video?videoid=1zwq-nnTIxc&theme=radical&hide_border=true)](https://youtu.be/1zwq-nnTIxc)
   
@@ -56,11 +56,14 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/PREETCHAUHAN)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/PREETCHAUHAN)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/PREETCHAUHAN)](https://badges.pufler.dev)
 ###
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/PREETCHAUHAN)](https://badges.pufler.dev)
-###
-[![Updated Badge](https://badges.pufler.dev/updated/PREETCHAUHAN/PREETCHAUHAN)](https://badges.pufler.dev) [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PREETCHAUHAN)](https://github.com/PREETCHAUHAN)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/PREETCHAUHAN)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/PREETCHAUHAN/PREETCHAUHAN)](https://badges.pufler.dev)
 ###
 [![Created Badge](https://badges.pufler.dev/created/PREETCHAUHAN/PREETCHAUHAN)](https://badges.pufler.dev)
+
+###
+
+# ✨ My github contribution stats
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PREETCHAUHAN)](https://github.com/PREETCHAUHAN)
 
 ###
 
