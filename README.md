@@ -48,11 +48,7 @@
 
 ###
 
-[![Repos Badge](https://badges.pufler.dev/repos/PREETCHAUHAN)](https://badges.pufler.dev)
-###
-[![Years Badge](https://badges.pufler.dev/years/PREETCHAUHAN)](https://badges.pufler.dev)
-###
-[![Gists Badge](https://badges.pufler.dev/gists/PREETCHAUHAN)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/PREETCHAUHAN)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/PREETCHAUHAN)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/PREETCHAUHAN)](https://badges.pufler.dev)
 ###
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/PREETCHAUHAN)](https://badges.pufler.dev)
 ###
