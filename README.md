@@ -47,7 +47,7 @@
 
   # YouTube channel stats
 
-  [![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCG1H5hlGfh8vkhB_dH2CeJA_LCI3e3GUig)](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA)
+  [![Dhyey's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCG1H5hlGfh8vkhB_dH2CeJA)](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA)
   
 ###
   # 🎧 Come and listen music with me
