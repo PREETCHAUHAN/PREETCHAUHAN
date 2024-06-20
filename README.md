@@ -54,15 +54,20 @@
   </div>
   
 ###
+
   # 🎧 Come and listen music with me
 
 ###
 
+<div align="center">
+  
 [![Repos Badge](https://badges.pufler.dev/repos/PREETCHAUHAN)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/PREETCHAUHAN)](https://badges.pufler.dev) [![Gists Badge](https://badges.pufler.dev/gists/PREETCHAUHAN)](https://badges.pufler.dev)
 ###
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/PREETCHAUHAN)](https://badges.pufler.dev) [![Updated Badge](https://badges.pufler.dev/updated/PREETCHAUHAN/PREETCHAUHAN)](https://badges.pufler.dev)
 ###
 [![Created Badge](https://badges.pufler.dev/created/PREETCHAUHAN/PREETCHAUHAN)](https://badges.pufler.dev)
+
+</div>
 
 ###
 
