@@ -45,7 +45,7 @@
 
   ###
 
-  # YouTube channel stats
+  # :yt: YouTube channel stats
 
   [![DJ JUNCTION'S Youtube Stats](https://youtube-stats-card.vercel.app/api?channelid=UCG1H5hlGfh8vkhB_dH2CeJA&theme=dracula)](https://www.youtube.com/channel/UCG1H5hlGfh8vkhB_dH2CeJA)
   
