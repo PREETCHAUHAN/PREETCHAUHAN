@@ -36,6 +36,11 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 ###
 
+# 🤣 Jokes 😂
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radial)
+
+###
+
   # 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/djpreet3215) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/djpreet) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/djpreet) ![](https://komarev.com/ghpvc/?username=PREETCHAUHAN&color=dc143c&style=for-the-badge&abbreviated=true)
   
