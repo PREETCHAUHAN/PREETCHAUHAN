@@ -72,7 +72,12 @@
 ###
 
 # ✨ My github contribution stats
+
+<div align="center">
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PREETCHAUHAN)](https://github.com/PREETCHAUHAN)
+
+</div>
 
 ###
 
