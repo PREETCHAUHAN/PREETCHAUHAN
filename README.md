@@ -53,7 +53,6 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/PREETCHAUHAN)](https://badges.pufler.dev)
 ###
 [![Updated Badge](https://badges.pufler.dev/updated/PREETCHAUHAN/PREETCHAUHAN)](https://badges.pufler.dev)
-
 ###
 [![Created Badge](https://badges.pufler.dev/created/PREETCHAUHAN/PREETCHAUHAN)](https://badges.pufler.dev)
 
@@ -63,6 +62,7 @@
 
 <br><hr>
 [🔺Go To Top🔺](#Hello)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
