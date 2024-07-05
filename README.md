@@ -12,7 +12,7 @@
 ###
 
 <p align="center">
-<img src="https://motionbgs.com/media/3378/noir-tresses-in-the-rain.960x540.mp4">
+<img src="">
   
 ###
   
@@ -69,7 +69,7 @@
   
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=true&background_color=131320&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true) ![1](https://github.com/PREETCHAUHAN/PREETCHAUHAN/assets/33035404/0ae2ef14-1afc-46ca-a966-2f2a9d4a38e0)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=true&background_color=131320&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true) <img src="https://github.com/PREETCHAUHAN/PREETCHAUHAN/assets/33035404/0ae2ef14-1afc-46ca-a966-2f2a9d4a38e0" height="30%">
 
 </div>
 
