@@ -64,7 +64,10 @@
   
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=true&background_color=131320&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true) 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=true&background_color=131320&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
+
+</div>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=novatorem&show_offline=true&background_color=131320&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=natemoo-re&show_offline=true&background_color=131320&interchange=false&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
 
 </div>
