@@ -10,9 +10,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
   
 ###
-<img src="https://img.ccyp.com/topic/201609/20160909143654652.png" width="30%" >
 
-[![Watch the video](https://github.com/PREETCHAUHAN/PREETCHAUHAN/assets/33035404/18f40cb8-67b8-4ba0-94e5-5e014e91e927)
+<img src="https://img.ccyp.com/topic/201609/20160909143654652.png" >
 
 ###
   
