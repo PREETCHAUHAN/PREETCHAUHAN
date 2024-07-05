@@ -15,8 +15,6 @@
   
 <img src="https://img.ccyp.com/topic/201609/20160909143654652.png" >
 
-###
-  
 <img src="https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/snake.svg" alt="Snake animation" />
 
 # 💫 About Me: 
