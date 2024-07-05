@@ -12,8 +12,8 @@
 ###
 
 <p align="center">
-<img src="https://motionbgs.com/media/1565/ahri-and-moonlit-night-sky-lol.960x540.mp4">
-  
+<img src="https://github.com/PREETCHAUHAN/PREETCHAUHAN/assets/33035404/3cd25e84-34e1-423b-9eb5-9ebe302141ee">
+
 ###
   
 <img src="https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/snake.svg" alt="Snake animation" />
