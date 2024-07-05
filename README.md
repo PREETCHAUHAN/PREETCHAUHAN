@@ -11,8 +11,7 @@
   
 ###
 
-<p align="center">
-<img src="https://i.imgur.com/HY2yXq6.mp4">
+[![Watch the video](https://github.com/PREETCHAUHAN/PREETCHAUHAN/assets/33035404/18f40cb8-67b8-4ba0-94e5-5e014e91e927)
 
 ###
   
