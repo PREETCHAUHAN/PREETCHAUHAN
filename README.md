@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
 <div align="center" style="border: 2px solid #e94560; border-radius: 6px; overflow: hidden;">
-  <img src="https://dotesports.com/wp-content/uploads/2023/09/Cyberpunk2077PhantomLiberty-Songbird-Closeup.png" alt="Bot" width="1500" style="border-radius: 1000px;">
+  <img src="https://motionbgs.com/media/3378/noir-tresses-in-the-rain.960x540.mp4" alt="Bot" width="1500" style="border-radius: 1000px;">
 </div>
 
 <img src="https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/snake.svg" alt="Snake animation" />
