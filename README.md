@@ -62,7 +62,7 @@
 
   # 🎧 Come and listen music with me
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=true&background_color=291834&interchange=false&bar_color_cover=true&bar_color=35bb44)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=true&background_color=171629&interchange=false&bar_color_cover=true&bar_color=35bb44)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true)
 
 ###
 
