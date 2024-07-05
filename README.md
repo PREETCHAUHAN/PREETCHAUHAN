@@ -13,7 +13,7 @@
 
 <p align="center">
   
-<img src="https://c4.wallpaperflare.com/wallpaper/331/665/300/women-model-indoors-women-indoors-cosplay-hd-wallpaper-preview.jpg" >
+<img src="https://p4.wallpaperbetter.com/wallpaper/505/240/53/hane-ame-women-model-asian-cosplay-hd-wallpaper-preview.jpg" >
 
 <img src="https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/snake.svg" alt="Snake animation" />
 
