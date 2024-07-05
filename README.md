@@ -12,7 +12,7 @@
 ###
 
 <p align="center">
-<img src="https://github.com/PREETCHAUHAN/PREETCHAUHAN/assets/33035404/3cd25e84-34e1-423b-9eb5-9ebe302141ee">
+<img src="https://wallpaperwaifu.com/anime/starchasm-nyx-seele-honkai-impact-3rd-live-wallpaper/">
 
 ###
   
