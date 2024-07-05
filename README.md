@@ -12,7 +12,7 @@
 ###
 
 <p align="center">
-<img src="">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/57ba3006-753e-4b9d-8f19-5981be331fac/devnd24-2a0fd374-ace7-454c-af3a-0e37031d4605.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3YmEzMDA2LTc1M2UtNGI5ZC04ZjE5LTU5ODFiZTMzMWZhY1wvZGV2bmQyNC0yYTBmZDM3NC1hY2U3LTQ1NGMtYWYzYS0wZTM3MDMxZDQ2MDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1MJ9Osxy6vJ4E03dTw8dwb2PDTaYexiv8cUEJbPOG34">
   
 ###
   
@@ -69,7 +69,7 @@
   
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=true&background_color=131320&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true) <img src="https://github.com/PREETCHAUHAN/PREETCHAUHAN/assets/33035404/0ae2ef14-1afc-46ca-a966-2f2a9d4a38e0" height="400">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&cover_image=true&theme=default&show_offline=true&background_color=131320&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vhjtyelexnd43wxfgprzsklgde&redirect=true) <img src="" height="400">
 
 </div>
 
