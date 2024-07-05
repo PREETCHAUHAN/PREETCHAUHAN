@@ -1,3 +1,3 @@
-https://spotify-github-profile.kittinanx.com/api/callback?code=AQAQh3tMCXv2hsHFQKFnryeb-w51D0p2N7JlA2QyMjF1_RPQeMdYuth3-aLBtkzXea2klFtJVk0H17Kh1CcKEzlwhaV_4r2myFEjGf_EJRoT929SsZ_Gsx4Mq1ORZCGXrmJ93ZAleQCP992MnRYznwXZjFVm_F34pzD-c5peCMWRGoksvjp5-1_EAmLmvQ2iVxDPOv1hOihDZ7x7C-ZezV2Uv4KUy92r3qm31c_fXmyZF87hq2wW2Re8YKtWXntLq6TbxrBVbTkT122_KNb4eBsciBS7
+https://spotify-github-profile.kittinanx.com/api/login
 
 rgb(19, 19, 32)
