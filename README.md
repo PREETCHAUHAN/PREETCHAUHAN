@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/PREETCHAUHAN/PREETCHAUHAN/output/snake.svg" alt="Snake animation" />
 
 # 💫 About Me: 
-👂 My name is PREETCHAUHAN <br>👩 Pronouns: DJ Preet<br>🔭 I’m currently working on motion graphic designer job<br>🌱 I’m currently learning many things<br>🤝 I’m looking to collaborate on earning money<br>🤔 I’m looking for help with big person<br>💬 Ask me about for physical exercise and health<br>📫 How to reach me: https://t.me/DJPreetDevXBot <br>❤️ I love bodybuilding and making music<br>⚡ Fun fact: Any substance that flows is considered a fluid. This includes such things as water, shampoo, sunscreen, and even honey. Although not necessarily obvious, even gases, such as air, can be classified as fluids. This activity will allow students to 'pour' a gas and watch the results.
+👂 My name is PREETCHAUHAN <br>👩 Pronouns: DJ Preet<br>🔭 I’m currently working on motion graphic designer job<br>🌱 I’m currently learning many things<br>🤝 I’m looking to collaborate on earning money<br>🤔 I’m looking for help with big person<br>💬 Ask me about for physical exercise and health<br>📫 How to reach me: t.me/DJPreetDevXBot <br>❤️ I love bodybuilding and making music<br>⚡ Fun fact: Any substance that flows is considered a fluid. This includes such things as water, shampoo, sunscreen, and even honey. Although not necessarily obvious, even gases, such as air, can be classified as fluids. This activity will allow students to 'pour' a gas and watch the results.
 
 
 ## 🌐 Socials:
